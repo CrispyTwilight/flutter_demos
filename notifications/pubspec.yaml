@@ -39,6 +39,7 @@ dependencies:
   firebase_messaging: ^14.6.7
   logger: ^2.4.0
   firebase_analytics: ^10.10.7
+  flutter_local_notifications: ^17.2.1+2
 
 dev_dependencies:
   flutter_test:
